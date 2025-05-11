@@ -1,0 +1,29 @@
+# Ignore ASP.NET Core build output
+bin/
+obj/
+
+# User-specific files
+.idea/
+.vs/
+.vscode/
+
+# ASP.NET Core / Visual Studio specific
+project.lock.json
+project.fragment.lock.json
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider
+.idea/
+
+# .NET Core build files
+*.dll
+*.pdb
+*.exe
+*.vshost.*
